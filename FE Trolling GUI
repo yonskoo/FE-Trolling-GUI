@@ -73822,4 +73822,4 @@ for i,v in pairs(game:GetService("Workspace"):GetDescendants()) do
     end
 end
 queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
-queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau'))()")
+queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/yonskoo/FE-Trolling-GUI/refs/heads/main/FE%20Trolling%20GUI'))()")
