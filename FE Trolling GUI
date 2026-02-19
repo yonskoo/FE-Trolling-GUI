@@ -1,10 +1,10 @@
 --[[
 FE Trolling GUI
 
-By yonsko/ticarto22
+By Yonsko
 
 
-If you want me to add anything let me know in the discord or dm me(yonsko/ticarto22)
+If you want me to add anything let me know in the discord or dm me(yonsko.)
 
 https://discord.gg/y38jfB9PTx
 
@@ -72,7 +72,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 local Window = Fluent:CreateWindow({
 	Title = "FE Trolling GUI",
-	SubTitle = "By yonsko/ticarto22",
+	SubTitle = "By Yonsko",
 	TabWidth = 160,
 	Size = UDim2.fromOffset(580, 460),
 	Acrylic = false,
